@@ -17,6 +17,7 @@ interface Prop {
   anime: AnimeProp;
   index: number;
 }
+
 const varients = {
   hidden: { opacity: 0 },
   visible: { opacity: 1 },

@@ -6,6 +6,7 @@ function Footer() {
       <p className="text-base font-bold text-white cursor-pointer">
         @2023 AnimeVault
       </p>
+
       <Image
         src="./logo.svg"
         alt="logo"
